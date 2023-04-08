@@ -2,23 +2,9 @@
 
 Working as `Product Owner` in the `Online Gaming Industry`, learning every day, passionate about growing high performance teams.
 
-- 👯 looking for collaborators on OpenSource projects : https://github.com/SickHub/
-- 🔭 working on maintaining Athens Go Proxy : https://github.com/gomods/athens/
+- 👯 looking for collaborators on Open Source projects : https://github.com/SickHub/
+- 🔭 working on maintaining Athens Go Proxy : https://github.com/gomods/athens/ and https://github.com/gomods/athens-charts/
 - ⚡ my stack: Linux, Kubernetes, Helm/Kustomize, ArgoCD, Go - working on MacOS 👨‍💻
+- 💬 **open for hire** as experienced problem solver, consultant and engineer for smaller projects
 
 <img src="https://github-readme-stats.vercel.app/api?username=DrPsychick&show_icons=true"/>
-
-<!--
-**DrPsychick/DrPsychick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
