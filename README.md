@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome 👋, I'm Pascal
+
+Working as `Product Owner` in the `Online Gaming Industry`, learning every day, passionate about growing high performance teams.
+
+- 👯 looking for collaborators on OpenSource projects : https://github.com/SickHub/
+- 🔭 working on maintaining Athens Go Proxy : https://github.com/gomods/athens/
+- ⚡ my stack: Linux, Kubernetes, Helm/Kustomize, ArgoCD, Go - working on MacOS 👨‍💻
+
+<img src="https://github-readme-stats.vercel.app/api?username=DrPsychick&show_icons=true"/>
 
 <!--
 **DrPsychick/DrPsychick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
