@@ -1,6 +1,6 @@
 ### Welcome 👋, I'm Pascal
 
-Working as `Product Owner` in the `Online Gaming Industry`, learning every day, passionate about growing high performance teams.
+Working as `Head of B2B` in the `Online Gaming Industry`, learning every day, passionate about growing high performance teams.
 
 - 👯 looking for collaborators on Open Source projects : https://github.com/SickHub/
 - 🔭 working on maintaining Athens Go Proxy : https://github.com/gomods/athens/ and https://github.com/gomods/athens-charts/
