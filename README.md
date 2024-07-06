@@ -7,4 +7,7 @@ Working as `Head of B2B` in the `Online Gaming Industry`, learning every day, pa
 - ⚡ my stack: Linux, Kubernetes, Helm/Kustomize, ArgoCD, Go - working on MacOS 👨‍💻
 - 💬 **open for hire** as experienced problem solver, consultant and engineer for smaller projects
 
+![GitHub followers](https://img.shields.io/github/followers/DrPsychick)
+![GitHub Org's stars](https://img.shields.io/github/stars/DrPsychick)
+
 <img src="https://github-readme-stats.vercel.app/api?username=DrPsychick&show_icons=true"/>
