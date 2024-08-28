@@ -10,4 +10,4 @@ Working as `Senior Engineer & Consultant` in the `Online Gaming Industry`, learn
 ![GitHub followers](https://img.shields.io/github/followers/DrPsychick)
 ![GitHub Org's stars](https://img.shields.io/github/stars/DrPsychick)
 
-<img src="https://github-readme-stats.vercel.app/api?username=DrPsychick&show_icons=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DrPsychick&show_icons=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrPsychick&show_icons=true&layout=compact&langs_count=8"/>
