@@ -1,6 +1,6 @@
 ### Welcome 👋, I'm Pascal
 
-Working as `Senior Engineer & Consultant` in the `Online Gaming Industry`, learning every day, passionate about growing high performance teams and automation.
+Working as `Senior Engineer & Consultant` in the `Hosting and Online Gaming Industry`, learning every day, passionate about growing high performance teams and automation.
 
 - 👯 looking for collaborators on Open Source projects : https://github.com/SickHub/
 - 🔭 working on maintaining Athens Go Proxy : https://github.com/gomods/athens/ and https://github.com/gomods/athens-charts/
