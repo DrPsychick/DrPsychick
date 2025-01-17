@@ -13,7 +13,7 @@ Working as `Senior Engineer & Consultant` in the `Hosting and Online Gaming Indu
 <img src="https://github-readme-stats.vercel.app/api?username=DrPsychick&show_icons=true"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrPsychick&show_icons=true&layout=compact&langs_count=8"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/drpsychick/drpsychick/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/drpsychick/drpsychick/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/drpsychick/drpsychick/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/drpsychick/drpsychick/output/github-contribution-grid-snake.svg" />
 </picture>
